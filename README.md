@@ -1,7 +1,9 @@
+</br>
+</br>
 <h3 align="center">
   <img src="visual_sort.gif" width="800">
 </h3>
-
+</br>
 
 # visual-algo-sort
 
