@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="visual_sort.gif" width="1000">
+  <img src="visual_sort.gif" width="800">
 </h3>
 
 
